@@ -35,7 +35,7 @@ curl -L https://raw.githubusercontent.com/AzuraCast/azurabot/master/docker-compo
 
 Open the `docker-compose.yml` file and provide the necessary variables.
 
-#### Step 3: Run Docker Compose
+#### Step 4: Run Docker Compose
 
 From the directory that contains your `docker-compose.yml` file, run these commands:
 
